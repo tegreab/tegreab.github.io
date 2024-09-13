@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tegreab.github.io/sitemap.html.gz
+Sitemap: https://tegreab.github.io/app/sitemap.html.gz
+Sitemap: https://tegreab.github.io/assets/sitemap.html.gz
+Sitemap: https://tegreab.github.io/css/sitemap.html.gz
+Sitemap: https://tegreab.github.io/includes/sitemap.html.gz
+Sitemap: https://tegreab.github.io/item/sitemap.html.gz
+Sitemap: https://tegreab.github.io/src/sitemap.html.gz
